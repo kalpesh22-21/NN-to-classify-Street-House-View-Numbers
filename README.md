@@ -1,3 +1,4 @@
+
 ## Project Overview:
 This was an academic project. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network.
 
@@ -6,7 +7,8 @@ SVHN is a real-world image dataset for developing machine learning and object re
 minimal requirement on data formatting but comes from a significantly harder, unsolved, real-world problem 
 (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google 
 Street View images.
-<img target="_blank" src="https://github.com/kalpesh22-21/Cement_Strength_Predictor/blob/main/Accuracy.png" width=270>
+
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/images.png" width=270>
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
@@ -20,10 +22,10 @@ Street View images.
 metric for evaluation
 
 # Algorithm to itterate over possible combinations neurons of NN architecture.
-<img target="_blank" src="https://github.com/kalpesh22-21/Cement_Strength_Predictor/blob/main/Accuracy.png" width=270>
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/NN%201.png" width=270>
 
 # Performance for different numbers of nuerons.
-<img target="_blank" src="https://github.com/kalpesh22-21/Cement_Strength_Predictor/blob/main/Accuracy.png" width=270>
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/Table.png" width=270>
 
 # Final Architecture.
-<img target="_blank" src="https://github.com/kalpesh22-21/Cement_Strength_Predictor/blob/main/Accuracy.png" width=270>
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/NN%202.png" width=270>
