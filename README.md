@@ -22,10 +22,10 @@ Street View images.
 metric for evaluation
 
 # Algorithm to itterate over possible combinations neurons of NN architecture.
-<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/NN%201.png" width=270>
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/NN%201.png" width=700>
 
 # Performance for different numbers of nuerons.
-<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/Table.png" width=270>
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/Table.png" width=700>
 
 # Final Architecture.
-<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/NN%202.png" width=270>
+<img target="_blank" src="https://github.com/kalpesh22-21/NN-to-classify-Street-House-View-Numbers/blob/main/NN%202.png" width=700>
